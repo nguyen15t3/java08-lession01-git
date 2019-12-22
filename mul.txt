@@ -1,0 +1,6 @@
+private  int mul(int a, int b){
+	if(a*b>Iteger.MAX){
+	throw new RuntimeExcaption();
+	}
+	return a*b;
+}
